@@ -1,5 +1,5 @@
 <p>
-	# Attribute-Based-Searchable-Encryption
+	# Attribute-Based-Searchable-Encryption, you can find more details about the schema in https://eprint.iacr.org/2017/782.
 </p>
 <p>
 	<strong>About the import:</strong>
